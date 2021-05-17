@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, Web development and learning how things work
 - 🌱 I’m currently learning blockchain to develop my dream project
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 You can reach me on Telegram : @pyhooma[https://telegram.dog/pyhooma]
+- 📫 You can reach me on Telegram : [@pyhooma](https://telegram.dog/pyhooma)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcs-pyhooma&label=Profile%20views&color=0e75b6&style=flat" alt="mrcs-pyhooma" /> </p>
 
