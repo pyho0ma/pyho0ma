@@ -1,5 +1,5 @@
 - 👋 Hello there!
-- Currently I'm studying
+- Currently I'm studying new technologies
 - 📫 You can reach me on **Telegram** : [@Dataverse](https://telegram.dog/dataverse)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcs-pyhooma&label=Profile%20views&color=0e75b6&style=flat" alt="mrcs-pyhooma" /> </p>
