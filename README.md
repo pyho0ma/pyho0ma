@@ -1,6 +1,6 @@
 - 👋 Hello there!
 - Currently I'm studying new technologies
-- 📫 You can reach me on **Telegram** : [@Pyho0ma](https://telegram.dog/dedxec)
+- 📫 You can reach me on **Telegram** : [@Pyho0ma](https://telegram.dog/s/dedxec)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyho0ma&label=Profile%20views&color=0e75b6&style=flat" alt="pyho0ma" /> </p>
 
